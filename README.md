@@ -15,6 +15,9 @@ python 2+
 
 pip install -r requirements.txt
 
+rename config.json.sample to config.json and complete the informations
+Be careful tu change the url by url of your incomming webhook from slack application
+
 python notification.py
 
 ## License
