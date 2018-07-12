@@ -8,8 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-python 2+
-
+python 2.7 , 3
 
 ### Installing
 
@@ -19,6 +18,11 @@ rename config.json.sample to config.json and complete the informations
 Be careful tu change the url by url of your incomming webhook from slack application
 
 python notification.py
+
+### Docker Part
+
+make up and enjoy
+
 
 ## License
 
