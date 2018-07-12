@@ -1,0 +1,11 @@
+{
+  "url": "https://hooks.slack.com/services/XXXXXXXXXXXXX/XXXXXXXXXXXXXXXXXXX",
+  "users" : [
+    {
+      "username":"NAME TO MENTION",
+      "from_address": "FROM LOCATION",
+      "to_address" : "DESTINATION LOCATION",
+      "region":"EU"
+    }
+  ]
+}
